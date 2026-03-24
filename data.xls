@@ -1,0 +1,9 @@
+,Region,Product,Sales,Profit
+0,North,A,500,120
+1,South,B,300,80
+2,East,C,700,200
+3,West,D,450,150
+4,North,B,600,170
+5,South,C,350,90
+6,East,D,800,250
+7,West,A,400,110
